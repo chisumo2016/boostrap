@@ -1,0 +1,27 @@
+@font-face{
+    font-family:FontAwesome;
+    src:url(https://maxcdn.bootstrapcdn.com/font-awesome/2.0/font//fontawesome-webfont.eot?#iefix) format('eot'),
+	url(https://maxcdn.bootstrapcdn.com/font-awesome/2.0/font//fontawesome-webfont.woff) format('woff'),
+	url(https://maxcdn.bootstrapcdn.com/font-awesome/2.0/font//fontawesome-webfont.ttf) format('truetype'),
+        
+        
+	url(https://maxcdn.bootstrapcdn.com/font-awesome/2.0/font//fontawesome-webfont.svg#FontAwesome) format('svg');
+    }
+
+.bgimage{
+    background-image: url('http://www.publicdomainpictures.net/pictures/60000/nahled/lion-cub-face-closeup.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 500px;
+     margin-top: 50px;
+    width: 1500px;
+}
+p{
+    text-align: justify;
+}
+
+.jumbotron{
+    width:960px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
